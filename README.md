@@ -34,8 +34,8 @@ Setup Variables:
 
 Variables
 ---------
-*service_name* - Define the name of the service that should be running/enabled on the remote host.
-*package_name* - Define the name of the package that shoudl be installed on the remote hosts. 
+`service_name` - Define the name of the service that should be running/enabled on the remote host.
+`package_name` - Define the name of the package that shoudl be installed on the remote hosts. 
 
 Examples of Variables
 ---------------------
