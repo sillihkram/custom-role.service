@@ -28,7 +28,7 @@ Import Role to Satellite:
 `Configure` -> `Ansible: Roles` -> `Import from satelite server` -> select `custom-role.service` 
 
 Setup Variables:
-`Configure` -> `Ansible: Roles` -> click `variables` button for custom-role.service click `import from <satellite> server` select both `service_name` & `package_name`
+`Configure` -> `Ansible: Roles` -> click `variables` next to `custom-role.service` click `import from <satellite> server` select both `service_name` & `package_name` click update on bottom of page.
 
 Variables
 ---------
