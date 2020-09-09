@@ -14,7 +14,7 @@ This role can be used to:
 
 Introduction
 ------------
-This role was created by Mark Hillis (Red Hat Solution Architect) for use with Red Hat Satellite.   
+This role was created for use with Red Hat Satellite and has been tested on version 6.7.   
 The intended use is to ensure a package is installed and that the service is running and enabled. 
 
 
