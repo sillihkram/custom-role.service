@@ -21,7 +21,8 @@ The intended use is to ensure a package is installed and that the service is run
 Installation
 ------------
 
-    root@satellite_server# cd /usr/share/ansible/roles
+*** - root@satellite_server# - ***
+    cd /usr/share/ansible/roles
     git clone https://github.com/sillihkram/custom-role.service.git
 
 Import Role to Satellite:
