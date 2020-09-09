@@ -18,6 +18,18 @@ This role was created for use with Red Hat Satellite and has been tested on vers
 The intended use is to ensure a package is installed and that the service is running and enabled. 
 
 
+Installation
+------------
+
+root@satellite_server# cd /usr/share/ansible/roles
+git clone https://github.com/sillihkram/custom-role.service.git
+
+Import Role to Satellite:
+`Configure` -> `Ansible: Roles` -> `Import from satelite server` -> select `custom-role.service` 
+
+Setup Variables:
+`Configure` -> `Ansible: Roles` -> click `variables` button for custom-role.service click `import from <satellite> server` select both `service_name` & `package_name`
+
 Variables
 ---------
 *service_name* - Define the name of the service that should be running/enabled on the remote host.
