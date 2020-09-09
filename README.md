@@ -25,9 +25,8 @@ Variables
 
 Examples of Variables
 ---------------------
-  vars:
-  
+
+    vars:
     - service_name: httpd
-  
     - package_name: httpd.service
 
