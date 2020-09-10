@@ -8,6 +8,7 @@ This role can be used to:
 
 - Check whether a service is running on a remote host.
 - Enable a service on a remote host.
+- Start/Stop/Reload a service on a remote host
 - Check if a package is installed on a remote host.
 - Install a package on a remote host.
 
